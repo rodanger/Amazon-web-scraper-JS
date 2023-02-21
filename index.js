@@ -69,13 +69,6 @@ app.get('/products/:productId/offers', async (req, res) => {
     
 });
 
-
-
-
-
-
-
-
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 
 
